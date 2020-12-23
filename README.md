@@ -47,7 +47,7 @@ the same thing in GitHub Pages through a GitHub repository.
 For a user, `<username>.github.io` is the pattern by default
 so that GitHub Pages can build the site. Meaning, you should 
 create a repository named after this pattern, 
-so mine is `mongalvarez.github.io`. 
+so mine is `xdvrx1.github.io`. 
 My site will be automatically created. 
 However, you may skip initializing your root directory.
 
