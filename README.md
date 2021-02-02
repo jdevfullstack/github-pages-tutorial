@@ -54,7 +54,7 @@ Also, say, you are creating content for another
 website, you can simply embed the page and
 you're job is done. You have the repo as the 
 active site for its development, maybe, others
-will collaborate too, and then the page
+will collaborate too, and then the GitHub Page
 as the output.
 
 ## How To
@@ -89,9 +89,9 @@ default document. The big advantage of using pure HTML
 is the freedom to design your page.
 
 There are three places where GitHub Pages will be building
-your site from: `master`, `gh-pages` or `/docs`. 
+your site from: `main`, `gh-pages` or `/docs`. 
 
-- Using the `master`
+- Using the `main`
 branch, there is no additional effort, 
 just set the proper configuration in `Settings`. 
 
@@ -100,7 +100,7 @@ to create this, go to `Branch`,
 type in the box 'gh-pages'
 then hit `Enter`.
 
-- `/docs` is a subfolder of the master `branch`, 
+- `/docs` is a subfolder of the main `branch`, 
 just click `Create new file` then type 
 'docs/index.htm' or any of the other
 choices for the default document.
@@ -114,15 +114,15 @@ it's just a matter of preference and technique where you
 will be building your site among the three options.
 
 But there are few considerations:
-- First, the `master` branch can be the source when it's all
+- First, the `main` branch can be the source when it's all
 about building the site.
 
-- Second, the `gh-pages` can be your choice when your `master`
+- Second, the `gh-pages` can be your choice when your `main`
 branch is dedicated for your source codes. 
 
 - Third, the `/docs` folder is a good choice when
 you want to build your site from scratch where
-you don't copy the contents of the `master` branch,
+you don't copy the contents of the `main` branch,
 as in the case of `gh-pages` branch.
 
 Changing the default address is another story, where
