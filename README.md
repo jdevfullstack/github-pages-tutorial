@@ -39,6 +39,24 @@ just like a blogging site. You can even
 add an advertisement and donation button to enable 
 financial support.
 
+Remember, when you are creating a digital content,
+it's better to use plaintext file. Markdown is the
+best format, as it can simply be turned into
+HTML. And as we know, when it's HTML format, that's
+the very consumption of web browsers, isn't it?
+
+Now, here is the catch, when you want to distribute
+your content as in it's hard copy,
+in Google Chrome, you can simply
+right-click the page and click `Print` 
+you now have the PDF version of your content.
+Also, say, you are creating content for another
+website, you can simply embed the page and
+you're job is done. You have the repo as the 
+active site for its development, maybe, others
+will collaborate too, and then the page
+as the output.
+
 ## How To
 In the same way you keep your pages and assets in one
 directory and subdirectories on the server, it is 
