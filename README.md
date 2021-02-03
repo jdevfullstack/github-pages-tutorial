@@ -45,8 +45,8 @@ best format, as it can simply be turned into
 HTML. And as we know, when it's HTML format, that's
 the very consumption of web browsers, isn't it?
 
-Now, here is the catch, when you want to distribute
-your content as in it's hard copy,
+Now, here is the catch: when you want to distribute
+your content as hard copy,
 in Google Chrome, you can simply
 right-click the page and click `Print` 
 you now have the PDF version of your content.
@@ -55,7 +55,14 @@ website, you can simply embed the page and
 you're job is done. You have the repo as the 
 active site for its development, maybe, others
 will collaborate too, and then the GitHub Page
-as the output.
+as the output. If ever you need a Google Docs
+or Microsoft Word
+versions of this, simply copy the rendered
+markdown file of GitHub and paste it
+on Google Docs or Microsoft Word, the format
+will still be correct.
+
+As you can see, it's very practical.
 
 ## How To
 In the same way you keep your pages and assets in one
