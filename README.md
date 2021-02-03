@@ -48,7 +48,7 @@ the very consumption of web browsers, isn't it?
 Now, here is the catch: when you want to distribute
 your content as hard copy,
 in Google Chrome, you can simply
-right-click the page and click `Print` 
+right click the page and click `Print` 
 you now have the PDF version of your content.
 Also, say, you are creating content for another
 website, you can simply embed the page and
