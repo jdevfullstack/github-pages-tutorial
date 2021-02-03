@@ -40,7 +40,7 @@ add an advertisement and donation button to enable
 financial support.
 
 Remember, when you are creating a digital content,
-it's better to use plaintext file. Markdown is the
+it's better to use a plaintext file. Markdown is the
 best format, as it can simply be turned into
 HTML. And as we know, when it's HTML format, that's
 the very consumption of web browsers, isn't it?
@@ -52,12 +52,12 @@ right-click the page and click `Print`
 you now have the PDF version of your content.
 Also, say, you are creating content for another
 website, you can simply embed the page and
-you're job is done. You have the repo as the 
+your job is done. You have the repo as the 
 active site for its development, maybe, others
 will collaborate too, and then the GitHub Page
 as the output. If ever you need a Google Docs
 or Microsoft Word
-versions of this, simply copy the rendered
+version of this, simply copy the rendered
 markdown file of GitHub and paste it
 on Google Docs or Microsoft Word, the format
 will still be correct.
@@ -76,7 +76,7 @@ so mine is `xdvrx1.github.io`.
 My site will be automatically created. 
 However, you may skip initializing your root directory.
 
-A default document will be displayed when a visitor requested
+A default document will be displayed when a visitor requests
 the site's URL. This is the `index.htm` file (or `index.html`
 to make sure other platforms will read it correctly)
 unless you change this manually for the server to give
