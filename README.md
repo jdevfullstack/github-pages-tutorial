@@ -39,6 +39,38 @@ just like a blogging site. You can even
 add an advertisement and donation button to enable 
 financial support.
 
+Remember, when you are creating a digital content,
+it's better to use a plaintext file. Markdown is the
+best format, as it can simply be turned into
+HTML. And as we know, when it's HTML format, that's
+the very consumption of web browsers, isn't it?
+
+This also reinforces the writers to use GitHub
+as their development site because it is more
+efficient as it uses `git` to record the 
+file's history. Even if Google Docs has a
+similar version tracking, still `git`
+cannot be replaced.
+
+Now, here is the catch: when you want to distribute
+your content as hard copy,
+in Google Chrome, you can simply
+right click the page and click `Print` 
+you now have the PDF version of your content.
+Also, say, you are creating content for another
+website, you can simply embed the page and
+your job is done. You have the repo as the 
+active site for its development, maybe, others
+will collaborate too, and then the GitHub Page
+as the output. If ever you need a Google Docs
+or Microsoft Word
+version of this, simply copy the rendered
+markdown file of GitHub and paste it
+on Google Docs or Microsoft Word, the format
+will still be correct.
+
+As you can see, it's very practical.
+
 ## How To
 In the same way you keep your pages and assets in one
 directory and subdirectories on the server, it is 
@@ -51,7 +83,7 @@ so mine is `xdvrx1.github.io`.
 My site will be automatically created. 
 However, you may skip initializing your root directory.
 
-A default document will be displayed when a visitor requested
+A default document will be displayed when a visitor requests
 the site's URL. This is the `index.htm` file (or `index.html`
 to make sure other platforms will read it correctly)
 unless you change this manually for the server to give
@@ -71,9 +103,9 @@ default document. The big advantage of using pure HTML
 is the freedom to design your page.
 
 There are three places where GitHub Pages will be building
-your site from: `master`, `gh-pages` or `/docs`. 
+your site from: `main`, `gh-pages` or `/docs`. 
 
-- Using the `master`
+- Using the `main`
 branch, there is no additional effort, 
 just set the proper configuration in `Settings`. 
 
@@ -82,7 +114,7 @@ to create this, go to `Branch`,
 type in the box 'gh-pages'
 then hit `Enter`.
 
-- `/docs` is a subfolder of the master `branch`, 
+- `/docs` is a subfolder of the main `branch`, 
 just click `Create new file` then type 
 'docs/index.htm' or any of the other
 choices for the default document.
@@ -96,15 +128,15 @@ it's just a matter of preference and technique where you
 will be building your site among the three options.
 
 But there are few considerations:
-- First, the `master` branch can be the source when it's all
+- First, the `main` branch can be the source when it's all
 about building the site.
 
-- Second, the `gh-pages` can be your choice when your `master`
+- Second, the `gh-pages` can be your choice when your `main`
 branch is dedicated for your source codes. 
 
 - Third, the `/docs` folder is a good choice when
 you want to build your site from scratch where
-you don't copy the contents of the `master` branch,
+you don't copy the contents of the `main` branch,
 as in the case of `gh-pages` branch.
 
 Changing the default address is another story, where
