@@ -45,6 +45,13 @@ best format, as it can simply be turned into
 HTML. And as we know, when it's HTML format, that's
 the very consumption of web browsers, isn't it?
 
+This also reinforces the writers to use GitHub
+as their development site because it is more
+efficient as it uses `git` to record the 
+file's history. Even if Google Docs has a
+similar version tracking, still `git`
+cannot be replaced.
+
 Now, here is the catch: when you want to distribute
 your content as hard copy,
 in Google Chrome, you can simply
