@@ -187,6 +187,26 @@ the pages, either from:
 > 6. You visit the site provided. You now have your web page.
 
 ***
+
+## The Trick
+GitHub Pages generates a static site but 
+don't you know that you can deploy games using this?
+The trick is actually the code: if that is purely 
+JavaScript, then it will work. To prove this, I deployed
+demo games from Vanilla Web Projects using GitHub Pages:
+
+<https://xdvrx1.github.io/hangman-game/>
+
+<https://xdvrx1.github.io/breakout-game/>
+
+As you can see here, because of the pure JavaScript,
+it enables the site not to be static. Remember,
+GitHub is referring to its being static 
+for the server-side,
+so you can't directly run, say, a PHP script. And
+since JavaScript is browser-side scripting, it
+will work as expected.
+
 ## Useful Links
 For further details, it is best to visit GitHub Pages
 and other sites:
