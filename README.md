@@ -61,8 +61,9 @@ Also, say, you are creating content for another
 website, you can simply embed the page and
 your job is done. You have the repo as the 
 active site for its development, maybe, others
-will collaborate too, and then the GitHub Page
-as the output. If ever you need a Google Docs
+will collaborate too, and then the GitHub Pages
+generated page as the output. 
+If ever you need a Google Docs
 or Microsoft Word
 version of this, simply copy the rendered
 markdown file of GitHub and paste it
@@ -206,6 +207,33 @@ for the server-side,
 so you can't directly run, say, a PHP script. And
 since JavaScript is browser-side scripting, it
 will work as expected.
+
+## Blogging Vs Vlogging
+To my surprise, blogging is not dead.
+I simply had that conclusion realizing
+YouTube is a very successful platform.
+But written content is still not dead
+and it will continue to be relevant.
+
+I just realized that blogging is not
+dead because not all the contents
+can be done through video presentations.
+Others really need to be written.
+
+Say, other tutorials are best done
+through video presentations just like
+bodybuilding demonstrations but
+tutorials in tech, particularly just
+like the full documentation of
+computer languages, are best done through
+text. Imagine if you will be doing
+all those through video presentations,
+first, that is not practical, second
+it will take a lot of space and that
+will be problematic for poor connection.
+And third, it is best done through
+writing because the content is too
+complex there are several subheadings.
 
 ## Useful Links
 For further details, it is best to visit GitHub Pages
