@@ -61,8 +61,9 @@ Also, say, you are creating content for another
 website, you can simply embed the page and
 your job is done. You have the repo as the 
 active site for its development, maybe, others
-will collaborate too, and then the GitHub Page
-as the output. If ever you need a Google Docs
+will collaborate too, and then the GitHub Pages
+generated page as the output. 
+If ever you need a Google Docs
 or Microsoft Word
 version of this, simply copy the rendered
 markdown file of GitHub and paste it
@@ -206,6 +207,9 @@ for the server-side,
 so you can't directly run, say, a PHP script. And
 since JavaScript is browser-side scripting, it
 will work as expected.
+
+## Blogging Vs Vlogging
+
 
 ## Useful Links
 For further details, it is best to visit GitHub Pages
