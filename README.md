@@ -209,7 +209,31 @@ since JavaScript is browser-side scripting, it
 will work as expected.
 
 ## Blogging Vs Vlogging
+To my surprise, blogging is not dead.
+I simply had that conclusion realizing
+YouTube is a very successful platform.
+But written content is still not dead
+and it will continue to be relevant.
 
+I just realized that blogging is not
+dead because not all the contents
+can be done through video presentations.
+Others really need to be written.
+
+Say, other tutorials is best done
+through a video presentation just like
+a bodybuilding demonstration but
+a tutorial in tech, particularly just
+like the full documentation of a 
+computer language, is best done through
+text. Imagine if you will be doing
+all those through video presentations,
+first, that is not practical, second
+it will take a lot of space and that
+will be problematic for poor connection.
+And third, it is best done through
+writing because the content is too
+complex there are several subheadings.
 
 ## Useful Links
 For further details, it is best to visit GitHub Pages
