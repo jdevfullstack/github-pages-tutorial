@@ -235,6 +235,11 @@ And third, it is best done through
 writing because the content is too
 complex there are several subheadings.
 
+So, if you will be using GitHub Pages
+to create written tutorials, you have
+the full advantage of GitHub Pages versus
+all those blogging sites.
+
 ## Useful Links
 For further details, it is best to visit GitHub Pages
 and other sites:
