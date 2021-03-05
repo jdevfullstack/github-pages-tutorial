@@ -224,7 +224,7 @@ Say, other tutorials are best done
 through video presentations just like
 bodybuilding demonstrations but
 tutorials in tech, particularly just
-like the full documentation of  
+like the full documentation of
 computer languages, are best done through
 text. Imagine if you will be doing
 all those through video presentations,
