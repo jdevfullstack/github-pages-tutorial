@@ -179,7 +179,7 @@ on top of the HTML file.
 >
 > 4. Select where GitHub Pages should build 
 the pages, either from:
->       - `master` (default)
+>       - `main` (default)
 >       - `gh-pages`
 >       - `/docs`
 >
