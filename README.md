@@ -218,7 +218,7 @@ and it will continue to be relevant.
 I just realized that blogging is not
 dead because not all the contents
 can be done through video presentations.
-Others really need to be written.
+Others should be written.
 
 Say, other tutorials are best done
 through video presentations just like
