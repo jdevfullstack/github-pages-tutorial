@@ -91,7 +91,7 @@ unless you change this manually for the server to give
 a different default document.
 It is the same in GitHub Pages plus the `README.md`
 or `index.md`.
-So, when you create a repo, in GitHub Pages,
+So, when you create a repo for GitHub Pages,
 you may have one default document from the three options:
 
 - `index.htm` or `index.html`
@@ -175,17 +175,19 @@ on top of the HTML file.
 > 1. Create a GitHub account if there is none.
 >
 > 2. Create a repository or use an existing one.
->
-> 3. Go to `Settings` and look for GitHub Pages.
 For free accounts, GitHub does not allow you
 to host from a private repo.
+>
+> 3. Go to `Settings` and look for GitHub Pages
+at the left side, it's just `Pages`.
 >
 > 4. Select where GitHub Pages should build 
 the pages, either from:
 >       - `main` (default)
 >       - `gh-pages`
 >       - `/docs`
->
+>       
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115100185-abf2cd80-9f6d-11eb-85b4-1558a7335658.png" /></kbd>
 > 5. And select a theme also if you want.
 >
 > 6. You visit the site provided. You now have your web page.
