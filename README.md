@@ -66,7 +66,7 @@ generated page as the output.
 If ever you need a Google Docs
 or Microsoft Word
 version of this, simply copy the rendered
-markdown file of GitHub and paste it
+Markdown file of GitHub and paste it
 on Google Docs or Microsoft Word, the format
 will still be correct.
 
@@ -75,7 +75,7 @@ As you can see, it's very practical.
 ## How To
 In the same way you keep your pages and assets in one
 directory and subdirectories on the server, it is 
-the same thing in GitHub Pages through a GitHub repository.
+the same thing on GitHub Pages through a GitHub repository.
 
 For a user, `<username>.github.io` is the pattern by default
 so that GitHub Pages can build the site. Meaning, you should 
@@ -91,7 +91,7 @@ unless you change this manually for the server to give
 a different default document.
 It is the same in GitHub Pages plus the `README.md`
 or `index.md`.
-So, when you create a repo, in GitHub Pages,
+So, when you create a repo for GitHub Pages,
 you may have one default document from the three options:
 
 - `index.htm` or `index.html`
@@ -113,7 +113,8 @@ just set the proper configuration in `Settings`.
 - `gh-pages` is a branch, 
 to create this, go to `Branch`,
 type in the box 'gh-pages'
-then hit `Enter`.
+then click the pop-up so that
+it will be created.
 
 - `/docs` is a subfolder of the main `branch`, 
 just click `Create new file` then type 
@@ -174,15 +175,18 @@ on top of the HTML file.
 > 1. Create a GitHub account if there is none.
 >
 > 2. Create a repository or use an existing one.
+For free accounts, GitHub does not allow you
+to host from a private repo.
 >
-> 3. Go to `Settings` and look for GitHub Pages.
+> 3. Go to `Settings` and look for GitHub Pages
+at the left side, it's just `Pages`.
 >
 > 4. Select where GitHub Pages should build 
 the pages, either from:
 >       - `main` (default)
 >       - `gh-pages`
 >       - `/docs`
->
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115100185-abf2cd80-9f6d-11eb-85b4-1558a7335658.png" /></kbd>
 > 5. And select a theme also if you want.
 >
 > 6. You visit the site provided. You now have your web page.
