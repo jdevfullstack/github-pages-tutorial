@@ -113,7 +113,7 @@ just set the proper configuration in `Settings`.
 - `gh-pages` is a branch, 
 to create this, go to `Branch`,
 type in the box 'gh-pages'
-then click the pop up so that
+then click the pop-up so that
 it will be created.
 
 - `/docs` is a subfolder of the main `branch`, 
