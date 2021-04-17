@@ -185,8 +185,7 @@ at the left side, it's just `Pages`.
 the pages, either from:
 >       - `main` (default)
 >       - `gh-pages`
->       - `/docs`
->       
+>       - `/docs`     
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115100185-abf2cd80-9f6d-11eb-85b4-1558a7335658.png" /></kbd>
 > 5. And select a theme also if you want.
 >
