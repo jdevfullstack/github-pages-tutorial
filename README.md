@@ -204,9 +204,9 @@ The trick is actually the code: if that is purely
 JavaScript, then it will work. To prove this, I deployed
 demo games from Vanilla Web Projects using GitHub Pages:
 
-<https://xdvrx1.github.io/hangman-game/>
+<https://jdevstatic.github.io/hangman-game/>
 
-<https://xdvrx1.github.io/breakout-game/>
+<https://jdevstatic.github.io/breakout-game/>
 
 As you can see here, because of the pure JavaScript,
 it enables the site not to be static. Remember,
@@ -265,7 +265,7 @@ differs from WordPress:
 
 For my very own example, this site 
 
-<https://xdvrx1.github.io/C-Programming-Tutorial/>
+<https://jdevstatic.github.io/C-Programming-Tutorial/>
 
 was built by GitHub Pages,
 Jekyll being the static site generator.
