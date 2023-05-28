@@ -288,7 +288,7 @@ About custom domain in GitHub Pages:
 
 #### <https://github.com/jdevstatic/basic-electronics>
 
-#### <https://github.com/jdevstatic/github-pages-tutorial>
+#### <https://github.com/jdevstatic/programming-core-concepts>
 
 #### <https://github.com/jdevstatic/java>
 
