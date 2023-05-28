@@ -1,6 +1,6 @@
 # GitHub Pages Tutorial
 
-*`updated 21 April 2022`*
+*`updated 28 May 2023`*
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fgithub-pages-tutorial&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -283,3 +283,21 @@ About custom domain in GitHub Pages:
 <https://help.github.com/en/articles/using-a-custom-domain-with-github-pages>
 
 <https://help.github.com/en/articles/custom-domain-redirects-for-github-pages-sites>
+
+## More Of My Topics
+
+#### <https://github.com/jdevstatic/basic-electronics>
+
+#### <https://github.com/jdevstatic/github-pages-tutorial>
+
+#### <https://github.com/jdevstatic/java>
+
+#### <https://github.com/jdevstatic/lightweight-web-server>
+
+#### <https://github.com/jdevstatic/java-coding-problems>
+
+#### <https://github.com/jdevstatic/PureBasic-FileExplorer>
+
+#### <https://github.com/jdevstatic/PureBasic-Scrabble>
+
+#### <https://github.com/jdevstatic/hacking-the-github-stats>
