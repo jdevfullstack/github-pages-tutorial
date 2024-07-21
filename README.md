@@ -222,24 +222,41 @@ For more information on customizing themes, visit the [GitHub Pages Documentatio
 
 [github-docs]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 
-## The Trick
-GitHub Pages generates a static site but 
-don't you know that you can deploy games using this?
-The trick is actually the code: if that is purely 
-JavaScript, then it will work. To prove this, I deployed
+## What Static Site Really Means
+
+GitHub Pages is known for hosting static sites, but what does "static" really mean? 
+Does this imply that such sites cannot incorporate dynamic elements through JavaScript?
+
+The term "static site" refers to the way content is served to the user. In a static 
+site, all content is pre-generated into HTML files and delivered directly to the 
+browser. This means there's no server-side processing or database interactions 
+happening in real-time when a user visits the site. 
+
+However, this doesn't mean static sites are devoid of interactivity or dynamism. 
+Through client-side JavaScript, static sites can include dynamic behaviors such as 
+content updates, animations, and interactions. JavaScript can also fetch data from 
+external APIs, bringing in dynamic content or functionality, albeit without direct 
+server-side processing or database access on the hosting server.
+
+The key limitation of static sites, particularly in the context of GitHub Pages, is 
+the absence of backend functionality. This means while you can fetch and display 
+data from external sources, you cannot directly save data back to a server or 
+database through GitHub Pages. Any form of data storage or complex server-side 
+logic would require external services or APIs.
+
+In essence, static sites served through GitHub Pages offer a blend of performance 
+and security for delivering content, with the flexibility to incorporate dynamic 
+elements via client-side JavaScript, making them suitable for a wide range of 
+applications from personal blogs to documentation and portfolio websites.
+In short, it has its own advantages compared to a full-pledged website.
+
+GitHub Pages can even host games if the code is purely written in
+JavaScript. To prove this, I deployed
 demo games from Vanilla Web Projects using GitHub Pages:
 
 <https://jdevfullstack-projects.github.io/hangman-game/>
 
 <https://jdevfullstack-projects.github.io/breakout-game/>
-
-As you can see here, because of the pure JavaScript,
-it enables the site not to be static. Remember,
-GitHub is referring to its being static 
-for the server-side,
-so you can't directly run, say, a PHP script. And
-since JavaScript is browser-side scripting, it
-will work as expected.
 
 ## Blogging Vs Vlogging
 To my surprise, blogging is not dead.
