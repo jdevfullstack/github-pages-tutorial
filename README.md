@@ -229,9 +229,9 @@ The trick is actually the code: if that is purely
 JavaScript, then it will work. To prove this, I deployed
 demo games from Vanilla Web Projects using GitHub Pages:
 
-<https://jdevstatic.github.io/hangman-game/>
+<https://jdevfullstack.github.io/hangman-game/>
 
-<https://jdevstatic.github.io/breakout-game/>
+<https://jdevfullstack.github.io/breakout-game/>
 
 As you can see here, because of the pure JavaScript,
 it enables the site not to be static. Remember,
@@ -290,7 +290,7 @@ differs from WordPress:
 
 For my very own example, this site 
 
-<https://jdevstatic.github.io/C-Programming-Tutorial/>
+<https://jdevfullstack.github.io/C-Programming-Tutorial/>
 
 was built by GitHub Pages,
 Jekyll being the static site generator.
@@ -311,18 +311,18 @@ About custom domain in GitHub Pages:
 
 ## More Of My Topics
 
-#### <https://github.com/jdevstatic/basic-electronics>
+#### <https://github.com/jdevfullstack/basic-electronics>
 
-#### <https://github.com/jdevstatic/programming-core-concepts>
+#### <https://github.com/jdevfullstack/programming-core-concepts>
 
-#### <https://github.com/jdevstatic/java>
+#### <https://github.com/jdevfullstack/java>
 
-#### <https://github.com/jdevstatic/lightweight-web-server>
+#### <https://github.com/jdevfullstack/lightweight-web-server>
 
-#### <https://github.com/jdevstatic/java-coding-problems>
+#### <https://github.com/jdevfullstack/java-coding-problems>
 
-#### <https://github.com/jdevstatic/PureBasic-FileExplorer>
+#### <https://github.com/jdevfullstack/PureBasic-FileExplorer>
 
-#### <https://github.com/jdevstatic/PureBasic-Scrabble>
+#### <https://github.com/jdevfullstack/PureBasic-Scrabble>
 
-#### <https://github.com/jdevstatic/hacking-the-github-stats>
+#### <https://github.com/jdevfullstack/hacking-the-github-stats>
