@@ -75,31 +75,36 @@ will still be correct.
 
 As you can see, it's very practical.
 
-## Easy Steps
-> So, the steps are:
->
-> 1. Create a GitHub account if there is none.
->
-> 2. Create a repository or use an existing one.
+## Easy Way
+So, the steps are:
+
+1. Create a GitHub account if there is none.
+
+2. Create a repository or use an existing one.
 For free accounts, GitHub does not allow you
 to host from a private repo.
->
-> 3. Go to `Settings` and look for GitHub Pages
+
+3. Initialize the repo with a README.md or create
+one if there was none. This will be the file that
+will be turned as the landing Page if there is no
+other file to be served.
+
+4. Go to `Settings` and look for GitHub Pages
 at the left side, it's just `Pages`.
->
-> 4. Set Up GitHub Pages:
->    - Click `None` to trigger the dropdown.
->    - Select `main` from the dropdown; it will auto-select `/root`. Leave it as is.
->    - Click "Save" to apply your changes.
->      <kbd><img src="https://github.com/user-attachments/assets/f907672b-8539-458e-bfae-0e0689723780" /></kbd>
->
-> 5. Configure Your Site:
->    - Go back to your repository.
->    - Create a file named `_config.yml`.
->    - Choose a theme provided by GitHub. For example:<br>
->      ![Theme Selection](https://github.com/user-attachments/assets/08f71705-e35c-4fd2-b018-7b0925bfa3d2)
->      
-> 6. You visit the site provided. You now have your web page.
+
+5. Set Up GitHub Pages:
+   - Click `None` to trigger the dropdown.
+   - Select `main` from the dropdown; it will auto-select `/root`. Leave it as is.
+   - Click "Save" to apply your changes.
+     <kbd><img src="https://github.com/user-attachments/assets/f907672b-8539-458e-bfae-0e0689723780" /></kbd>
+
+6. Configure Your Site:
+   - Go back to your repository.
+   - Create a file named `_config.yml`.
+   - Choose a theme provided by GitHub. For example:<br>
+     ![Theme Selection](https://github.com/user-attachments/assets/08f71705-e35c-4fd2-b018-7b0925bfa3d2)
+     
+7. You visit the site provided. You now have your web page.
 
 ## More Details
 In the same way you keep your pages and assets in one
