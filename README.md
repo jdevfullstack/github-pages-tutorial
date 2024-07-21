@@ -75,36 +75,33 @@ will still be correct.
 
 As you can see, it's very practical.
 
-## Easy Way
-So, the steps are:
-
+## GitHub Pages The Easy Way
 1. Create a GitHub account if there is none.
 
 2. Create a repository or use an existing one.
 For free accounts, GitHub does not allow you
 to host from a private repo.
 
-3. Initialize the repo with a README.md or create
-one if there was none. This will be the file that
-will be turned as the landing Page if there is no
-other file to be served.
+3. Initialize the repo with a README.md, or create one if
+it doesn't exist. This file will serve as the landing page
+if there are no other files to be served.
 
-4. Go to `Settings` and look for GitHub Pages
+4. Go to `Settings` of the repository and look for GitHub Pages
 at the left side, it's just `Pages`.
-
-5. Set Up GitHub Pages:
    - Click `None` to trigger the dropdown.
-   - Select `main` from the dropdown; it will auto-select `/root`. Leave it as is.
+   - Select `main` from the dropdown, it will auto-select `/root`. Leave it as is.
    - Click "Save" to apply your changes.
      <kbd><img src="https://github.com/user-attachments/assets/f907672b-8539-458e-bfae-0e0689723780" /></kbd>
 
-6. Configure Your Site:
+5. Configure Your Site:
    - Go back to your repository.
    - Create a file named `_config.yml`.
    - Choose a theme provided by GitHub. For example:<br>
      ![Theme Selection](https://github.com/user-attachments/assets/08f71705-e35c-4fd2-b018-7b0925bfa3d2)
      
-7. You visit the site provided. You now have your web page.
+6. Visit the site provided. The URL pattern for GitHub Pages sites
+typically follows this format: `https://<username>.github.io/<repository>/`.
+You now have your web page.
 
 ## More Details
 In the same way you keep your pages and assets in one
