@@ -295,16 +295,9 @@ For my very own example, this site
 was built by GitHub Pages,
 Jekyll being the static site generator. It's that simple. 
 
-And, for those who don't know yet how to
-host a site using a computer as a server,
-
-<https://blog.mindorks.com/how-to-convert-your-laptop-desktop-into-a-server-and-host-internet-accessible-website-on-it-part-1-545940164ab9>
-
 About custom domain in GitHub Pages:
 
 <https://help.github.com/en/articles/using-a-custom-domain-with-github-pages>
-
-<https://help.github.com/en/articles/custom-domain-redirects-for-github-pages-sites>
 
 ## More Of My Topics
 
