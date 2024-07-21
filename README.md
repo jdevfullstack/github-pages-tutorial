@@ -198,8 +198,8 @@ I provided the link at the bottom.
 
 ### Default Themes and Custom Themes
 The themes provided by GitHub Pages can be used
-for your pages. These themes will 
-always work in Markdown files
+for your pages, just like in our example above. 
+These themes will always work in Markdown files
 but when you deal with pure HTML, make sure
 that you always delete the head section and just include
 the body so that the theme you selected will
@@ -214,6 +214,10 @@ layout: default
 ```
 
 on top of the HTML file.
+
+For more information on customizing themes, visit the [GitHub Pages Documentation][github-docs].
+
+[github-docs]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 
 ## The Trick
 GitHub Pages generates a static site but 
