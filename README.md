@@ -113,7 +113,8 @@ at the left side, it's just `Pages`.
 typically follows this format: `https://<username>.github.io/<repository>/`.
 You now have your web page.
 
-## More Details
+## More Advanced Details
+### GitHub Per User Root
 In the same way you keep your pages and assets in one
 directory and subdirectories on the server, it is 
 the same thing on GitHub Pages through a GitHub repository.
@@ -125,6 +126,7 @@ so mine is `xdvrx1.github.io`.
 My site will be automatically created. 
 However, you may skip initializing your root directory.
 
+### Default Documents
 A default document will be displayed when a visitor requests
 the site's URL. This is the `index.htm` file (or `index.html`
 to make sure other platforms will read it correctly)
@@ -144,6 +146,7 @@ they are still the choices for the
 default document. The big advantage of using pure HTML
 is the freedom to design your page.
 
+### GitHub Directories Where It Will Be Hosting
 There are three places where GitHub Pages will be building
 your site from: `main`, `gh-pages` or `/docs`. 
 
@@ -182,6 +185,7 @@ you want to build your site from scratch where
 you don't copy the contents of the `main` branch,
 as in the case of `gh-pages` branch.
 
+### Custom Domain
 Changing the default address is another story, where
 you really want to make sure that you 
 have an existing domain. If you know how to host 
@@ -192,6 +196,7 @@ studying how to host a website from a different source
 because the idea is the same in GitHub Pages.
 I provided the link at the bottom.
 
+### Default Themes and Custom Themes
 The themes provided by GitHub Pages can be used
 for your pages. These themes will 
 always work in Markdown files
