@@ -128,11 +128,13 @@ customize your root web page and it will be served by GitHub !
 However, you may skip initializing your root directory.
 
 ### Default Documents
-A default document will be displayed when a visitor requests
-the site's URL. This is the `index.htm` file (or `index.html`
-to make sure other platforms will read it correctly)
+As was mentioned above, a default document will 
+be displayed when a visitor requests
+the site's URL. This is the `index.htm` file ( or `index.html`
+to make sure other platforms will read it correctly )
 unless you change this manually for the server to give
 a different default document.
+
 It is the same in GitHub Pages plus the `README.md`
 or `index.md`.
 So, when you create a repo for GitHub Pages,
@@ -147,7 +149,7 @@ they are still the choices for the
 default document. The big advantage of using pure HTML
 is the freedom to design your page.
 
-### GitHub Directories Where It Will Be Hosting
+### GitHub Directories for Hosting
 There are three places where GitHub Pages will be building
 your site from: `main`, `gh-pages` or `/docs`. 
 
@@ -155,36 +157,36 @@ your site from: `main`, `gh-pages` or `/docs`.
 branch, there is no additional effort, 
 just set the proper configuration in `Settings`. 
 
-- `gh-pages` is a branch, 
-to create this, go to `Branch`,
-type in the box 'gh-pages'
-then click the pop-up so that
-it will be created.
-
 - `/docs` is a subfolder of the main `branch`, 
 just click `Create new file` then type 
-'docs/index.htm' or any of the other
+`docs/index.htm` or any of the other
 choices for the default document.
-GitHub does not allow empty repository, 
+GitHub does not allow an empty folder, 
 so you must initialize it with a file.
 In this example, that is `index.htm`. 
 
-Furthermore, as I have observed when using just a regular
-account and when there is no need to change the domain name,
-it's just a matter of preference and technique where you
-will be building your site among the three options.
+- `gh-pages` is a branch, 
+to create this, go to `Branch`,
+type in the box `gh-pages` then hit Enter.
 
-But there are few considerations:
-- First, the `main` branch can be the source when it's all
-about building the site.
+So, what to use ? Here are some considerations:
+- if you are creating tutorial like this page of mine
+you are reading, simply use the `main` branch using the 
+`README.md` file. 
 
-- Second, the `gh-pages` can be your choice when your `main`
-branch is dedicated for your source codes. 
+- the `/docs` folder is usual for those codebase with
+documentation. Other document generator also relies on
+this folder.
 
-- Third, the `/docs` folder is a good choice when
-you want to build your site from scratch where
-you don't copy the contents of the `main` branch,
-as in the case of `gh-pages` branch.
+- the `gh-pages` can be your choice when your `main`
+branch is dedicated for your source codes and you want
+a dedicated hosting directory
+
+- the `main` branch can be the source when it's all
+about building the site not related to coding, as in
+a pure Web Page
+
+Finally, it's up to the preference of the user or the team.
 
 ### Custom Domain
 Changing the default address is another story, where
