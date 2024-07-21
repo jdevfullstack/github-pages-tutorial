@@ -229,9 +229,9 @@ The trick is actually the code: if that is purely
 JavaScript, then it will work. To prove this, I deployed
 demo games from Vanilla Web Projects using GitHub Pages:
 
-<https://jdevfullstack.github.io/hangman-game/>
+<https://jdevfullstack-projects.github.io/hangman-game/>
 
-<https://jdevfullstack.github.io/breakout-game/>
+<https://jdevfullstack-projects.github.io/breakout-game/>
 
 As you can see here, because of the pure JavaScript,
 it enables the site not to be static. Remember,
@@ -290,13 +290,10 @@ differs from WordPress:
 
 For my very own example, this site 
 
-<https://jdevfullstack.github.io/C-Programming-Tutorial/>
+<https://jdevfullstack.github.io>
 
 was built by GitHub Pages,
-Jekyll being the static site generator.
-When you click `View on GitHub`, that is the repository
-where all the assets and default documents reside. 
-It's that simple. 
+Jekyll being the static site generator. It's that simple. 
 
 And, for those who don't know yet how to
 host a site using a computer as a server,
