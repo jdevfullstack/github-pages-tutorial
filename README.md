@@ -82,9 +82,19 @@ As you can see, it's very practical.
 For free accounts, GitHub does not allow you
 to host from a private repo.
 
-3. Initialize the repo with a README.md, or create one if
-it doesn't exist. This file will serve as the landing page
-if there are no other files to be served.
+3. Initialize the repo with a `README.md`, or create one if it doesn't
+   exist. This file will serve as the default landing page on GitHub.
+   Other options include `index.html`, `index.htm` or `index.md`. The
+   simplest method to create a web page is by using Markdown, but you
+   also have the option to write in HTML if you prefer. But if you are
+   writing a content, mostly you will use Markdown more than HTML.
+
+   Note: While you can technically have `README.md`, `index.html`,
+   `index.htm` and `index.md` in your repository, it's not standard
+   practice to include all four. GitHub Pages will prioritize them in
+   the following order: `index.html`, `index.htm`, `index.md`, and then
+   `README.md`. It's best to choose one primary file for your landing
+   page to avoid confusion.
 
 4. Go to `Settings` of the repository and look for GitHub Pages
 at the left side, it's just `Pages`.
