@@ -114,16 +114,17 @@ typically follows this format: `https://<username>.github.io/<repository>/`.
 You now have your web page.
 
 ## More Advanced Details
-### GitHub Per User Root
-In the same way you keep your pages and assets in one
-directory and subdirectories on the server, it is 
-the same thing on GitHub Pages through a GitHub repository.
+### GitHub Pages Root Defaults
+By default, GitHub provides accounts and even Orgs a root
+of your Web Page where all pages will be based from. Even if
+you don't initialize this repo, you can start enabling
+Pages per repo.
 
 For a user, `<username>.github.io` is the pattern by default
 so that GitHub Pages can build the site. Meaning, you should 
 create a repository named after this pattern, 
-so mine is `xdvrx1.github.io`. 
-My site will be automatically created. 
+so mine is `jdevfullstack.github.io`. You can now 
+customize your root web page and it will be served by GitHub !
 However, you may skip initializing your root directory.
 
 ### Default Documents
