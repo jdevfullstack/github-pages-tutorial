@@ -259,6 +259,10 @@ demo games from Vanilla Web Projects using GitHub Pages:
 <https://jdevfullstack-projects.github.io/breakout-game/>
 
 ## Blogging Vs Vlogging
+Just an added section in here since we are 
+dealing with Markdown and GitHub Pages.
+Do you think it's still worth writing ?
+
 To my surprise, blogging is not dead.
 I simply had that conclusion realizing
 YouTube is a very successful platform.
@@ -316,20 +320,8 @@ About custom domain in GitHub Pages:
 
 <https://help.github.com/en/articles/using-a-custom-domain-with-github-pages>
 
-## More Of My Topics
-
-#### <https://github.com/jdevfullstack/basic-electronics>
-
-#### <https://github.com/jdevfullstack/programming-core-concepts>
-
-#### <https://github.com/jdevfullstack/java>
-
-#### <https://github.com/jdevfullstack/lightweight-web-server>
-
-#### <https://github.com/jdevfullstack/java-coding-problems>
-
-#### <https://github.com/jdevfullstack/PureBasic-FileExplorer>
-
-#### <https://github.com/jdevfullstack/PureBasic-Scrabble>
-
-#### <https://github.com/jdevfullstack/hacking-the-github-stats>
+## More Of My Content
+- [jdevfullstack Profile](https://github.com/jdevfullstack)
+- [jdevfullstack Repos](https://github.com/jdevfullstack?tab=repositories)
+- [jdevfullstack Projects](https://github.com/jdevfullstack-projects)
+- [jdevfullstack Tutorials](https://github.com/jdevfullstack-tutorials)
