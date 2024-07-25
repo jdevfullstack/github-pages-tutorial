@@ -29,51 +29,47 @@ was all about static web pages and we all know
 the advantages of static pages against dynamic ones. 
 
 ## Why GitHub Pages?
-Ideally, GitHub Pages was intended for a project's
-documentation. However, GitHub allowed users to use
-it for other purposes within the boundaries given.
-For instance, creating a site to promote your business
-is not allowed.
-But other than those limitations, 
-you have the option to use GitHub Pages
-when you want to display information
-and you want to share it to the rest of the world,
-just like a blogging site. You can even
-add an advertisement and donation button to enable 
-financial support.
 
-Remember, when you are creating a digital content,
-it's better to use a plaintext file. Markdown is the
-best format, as it can simply be turned into
-HTML. And as we know, when it's HTML format, that's
-the very consumption of web browsers, isn't it?
+Originally, GitHub Pages was intended for a project's
+documentation. However, GitHub allows users to use it
+for other purposes within certain boundaries. For
+instance, creating a site to promote your business is
+allowed as long as it complies with GitHub's terms of
+service. Aside from those limitations, you have the
+option to use GitHub Pages when you want to display
+information and share it with the rest of the world,
+just like a blogging site. You can even add
+advertisements and donation buttons to enable financial
+support.
 
-This also reinforces the writers to use GitHub
-as their development site because it is more
-efficient as it uses `git` to record the 
-file's history. Even if Google Docs has a
-similar version tracking, still `git`
-cannot be replaced.
+When creating digital content, it comes in handy to use a
+plaintext file. Markdown is an excellent format because
+it can easily be converted into HTML, which is the
+primary format consumed by web browsers.
 
-Now, here is the catch: when you want to distribute
-your content as hard copy,
-in Google Chrome, you can simply
-right click the page and click `Print` 
-you now have the PDF version of your content.
-Also, say, you are creating content for another
-website, you can simply embed the page and
-your job is done. You have the repo as the 
-active site for its development, maybe, others
-will collaborate too, and then the GitHub Pages
-generated page as the output. 
-If ever you need a Google Docs
-or Microsoft Word
-version of this, simply copy the rendered
-Markdown file of GitHub and paste it
-on Google Docs or Microsoft Word, the format
-will still be correct.
+This also encourages writers to use GitHub as their
+development site because it is more efficient,
+utilizing `git` to record the file's history. While
+Google Docs has a similar version tracking feature,
+`git` offers more robust version control capabilities.
 
-As you can see, it's very practical.
+Additionally, if you want to distribute your content as
+a hard copy, you can simply right-click the page in
+Google Chrome and select `Print` to generate a PDF
+version of your content. If you are creating content
+for another website, you can embed the page, and your
+job is done. You have the repository as the active site
+for development, potentially with collaboration from
+others, and the GitHub Pages generated page as the
+output.
+
+If you need a Google Docs or Microsoft Word version of
+your content, you can copy the rendered Markdown file
+from GitHub and paste it into Google Docs or Microsoft
+Word, and the format will generally remain correct with
+some minor adjustments.
+
+As you can see, using GitHub Pages is very practical.
 
 ## GitHub Pages The Easy Way
 1. Create a GitHub account if there is none.
