@@ -255,40 +255,23 @@ demo games from Vanilla Web Projects using GitHub Pages:
 <https://jdevfullstack-projects.github.io/breakout-game/>
 
 ## Blogging Vs Vlogging
-Just an added section in here since we are 
-dealing with Markdown and GitHub Pages.
-Do you think it's still worth writing ?
+Just an added section in here since we are dealing with Markdown 
+and GitHub Pages. Do you think it's still worth writing ?
 
-To my surprise, blogging is not dead.
-I simply had that conclusion realizing
-YouTube is a very successful platform.
-But written content is still not dead
-and it will continue to be relevant.
+We might think blogging is already dead, with all these 
+video-based platforms like YouTube and now TikTok. There are 
+even dedicated sites for posting images alone.
 
-I just realized that blogging is not
-dead because not all the contents
-can be done through video presentations.
-Others should be written.
+If we compare how popular blogging was in the past versus today, 
+let's also consider that it was the main platform back then 
+before the advent of different social media platforms.
 
-Say, other tutorials are best done
-through video presentations just like
-bodybuilding demonstrations but
-tutorials in tech, particularly just
-like the full documentation of
-computer languages, are best done through
-text. Imagine if you will be doing
-all those through video presentations,
-first, that is not practical, second
-it will take a lot of space and that
-will be problematic for poor connection.
-And third, it is best done through
-writing because the content is too
-complex there are several subheadings.
-
-So, if you will be using GitHub Pages
-to create written tutorials, you have
-the full advantage of GitHub Pages versus
-all those blogging sites.
+Now, choices are diverse, so it might seem to be a dead platform. 
+But as you can see, text-based sites are still very strong today. 
+Digital written content is still popular, even printed books. 
+Written content is mostly associated with high-quality, in-depth 
+content. In short, it has its own place in the diverse world of 
+media consumption.
 
 ## Useful Links
 For further details, it is best to visit GitHub Pages
